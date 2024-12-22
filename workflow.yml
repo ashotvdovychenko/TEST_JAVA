@@ -1,5 +1,5 @@
 name: Build project
 with:
   language: 'Java'
-  version: '21'
+  version: '17'
 run: mvn clean install
